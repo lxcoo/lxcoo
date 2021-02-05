@@ -24451,7 +24451,7 @@
                 return this._rawAssets + t
             },
             _init: function(t) {
-                this._rawAssets = cc.path.stripSep(t) + "/"
+                this._rawAssets = cc.path.stripSep(t) + "https://cdn.jsdelivr.net/gh/lxcoo/lxcoo/"
             }
         }, e.exports = cc.url
     }), {}],
